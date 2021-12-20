@@ -1,0 +1,128 @@
+@media (max-width: 1024px) {
+    .container {
+        padding: 0 80px;
+    }
+    .banner h1 {
+        font-size: 50px;
+    }
+    .banner h3 {
+        font-size: 30px;
+    }
+    .banner p {
+        font-size: 10px;
+    }
+    .left-side p {
+        font-size: 15px;
+    }
+    .right-side p {
+        font-size: 10px;
+    }
+
+    .wrap-logo {
+        width: 50%;
+    }
+    .wrap-logo p {
+        padding: 30px 40px 0 40px;
+    }
+    .subjudul h1 {
+        font-size: 25px;
+    }
+    .wraper-resume h3 {
+        font-size: 15px;
+    }
+    .kanan {
+        padding-right: 15px;
+    }
+    .kanan h3{
+        padding-bottom: 34px;
+    }
+    .kiri {
+        padding-left: 15px;
+    }
+    .kiri p {
+        font-size: 10px;
+    }
+
+    footer p {
+        font-size: 15px;
+    }
+    .social-media {
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width: 660px) {
+    .container {
+        padding: 0 30px;
+    }
+    .menu li a {
+        font-size: 10px;
+        padding: 20px 15px 19px;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .banner h3 {
+        width: 75%;
+        font-size: 20px;
+    }
+    .banner p {
+        font-size: 8px;
+    }
+    .left-side p {
+        font-size: 8px;
+    }
+    .right-side p {
+        font-size: 5px;
+    }
+    .wraper-logo h1 {
+        font-size: 20px;
+    }
+    .wrap-logo {
+        width: 100%;
+    }
+
+    .left-side, .right-side {
+        padding: 10px 30px 10px 0;
+    }
+    .left-side {
+        padding-left: 0;
+    }
+    .right-side {
+        padding-right: 0;
+    }
+
+
+    .wrap-logo img {
+        width: 35%;
+    }
+    .wrap-logo p {
+        padding: 30px 50px 0 50px;
+    }
+    .subjudul h1 {
+        font-size: 20px;
+    }
+    .wraper-resume h3 {
+        font-size: 10px;
+    }
+    .kanan {
+        padding-right: 10px;
+    }
+    .kanan h3{
+        padding-bottom: 28px;
+    }
+    .kiri {
+        padding-left: 10px;
+    }
+    .kiri p {
+        font-size: 7px;
+    }
+
+    footer p {
+        font-size: 10px;
+    }
+    .social-media {
+        font-size: 20px;
+    }
+}
