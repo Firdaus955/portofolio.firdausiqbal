@@ -26,6 +26,7 @@ a {
     padding: 0px 150px;
 }
 header {
+    overflow: hidden;
     z-index: 1;
     position: fixed;
     width: 100%;
